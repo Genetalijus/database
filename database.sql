@@ -17,7 +17,7 @@ INSERT INTO `users` (`user_id`, `username`, `email`, `fullname`, `user_pwd`, `us
 (11, 'Simas', 'Simas@gmail.com', 'Simas Simas', '$2y$10$UkbX2zXRwpqwT8ya6lIko.qGqmAEeu7rPagFWJ5UJuXb/F6zLP2nW', 'user', 'pacientas'),
 (12, 'Daktaras', 'daktar@gmail.com', 'Daktaras Daktaras', '$2y$10$vWcGfeIID8.TmCXfYAjNmOgBRnCse9UPNJ8/cMyTcNMurvPOc/UzS', 'doctor', 'Seimos gydytojas'),
 (13, 'Daktarass', 'Daktarass@gmail.com', 'Daktarass Daktarass', '$2y$10$9Mf/tS72XnWnnuXYCiHqFuT.9lj9OZAWGxO/pOPzBauMYSAbyuj/m', 'doctor', 'Seimos gydytojas'),
-(14, 'Daktarasss', 'Daktarasss@gmail.com', 'Daktarasss Daktarasss', '$2y$10$bSZqpiDM1jGZCLh96AufoedbcQtfH7WJEOVxmA9Y0ochDxPaSUwOW', 'doctor', 'Seimos gydytojas')DEFAULT CHARSET=utf8mb4;
+(14, 'Daktarasss', 'Daktarasss@gmail.com', 'Daktarasss Daktarasss', '$2y$10$bSZqpiDM1jGZCLh96AufoedbcQtfH7WJEOVxmA9Y0ochDxPaSUwOW', 'doctor', 'Seimos gydytojas');
 
 
 CREATE TABLE `appointments` (
